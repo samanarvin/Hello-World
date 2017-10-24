@@ -1,3 +1,3 @@
 # Hello-World
 hi
-i actually like python and java for android and internet of things ddevelopement..
+i actually like python and java for android and internet of things developement..
